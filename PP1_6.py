@@ -6,7 +6,7 @@
 '''
 
 # From input, recieve two integers from the user and add them together.  Output the result.
-q1():
+def q1():
   num1 = input("Input a number: ")
   num2 = input("Input a number: ")
   
@@ -14,7 +14,7 @@ q1():
 
 # From input recieve two integers.  Output the quotient rounded down.
 
-q2():
+def q2():
   num1 = input("Input a number: ")
   num2 = input("Input a number: ")
   
@@ -22,15 +22,19 @@ q2():
 
 # Output the phrase "hello Mr. Kalisz have you seen my work yet?"
 
-q3():
+def q3():
   print (hello Mr. Kalisz have you seen my work yet?)
 
 # From input recieve two numbers (can be decimal fractions).  
 # Output their result multiplied together.  Then round down to the nearest whole number
 
-q4():
+def q4():
   input("Input a number: ")
   num2 = input("Input a number: ")
   
   print (int(num1 * num2))
 
+q1()
+q2()
+q3()
+q4()

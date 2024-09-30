@@ -10,7 +10,7 @@ def q1():
   num1 = input("Input a number: ")
   num2 = input("Input a number: ")
   
-  print(num + num2)
+  print(num=1 + num2)
 
 # From input recieve two integers.  Output the quotient rounded down.
 
@@ -18,12 +18,12 @@ def q2():
   num1 = input("Input a number: ")
   num2 = input("Input a number: ")
   
-  print(num 1/num 2)
+  print(num1/num2)
 
-# Output the phrase "hello Mr. Kalisz have you seen my work yet?"
+# Output the phrase "Hello Mr. Kalisz have you seen my work yet?"
 
 def q3():
-  print(hello Mr. Kalisz have you seen my work yet?)) # type: ignore
+  print(Hello Mr. Kalisz have you seen my work yet? ) # type: ignore
 
 # From input recieve two numbers (can be decimal fractions).  
 # Output their result multiplied together.  Then round down to the nearest whole number
@@ -32,7 +32,7 @@ def q4():
   input("Input a number: ")
   num2 = input("Input a number: ")
   
-  print (int(num1 * num2))
+  print (int(num=1 * num2))
 
 q1()
 q2()

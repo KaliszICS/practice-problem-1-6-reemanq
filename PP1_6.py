@@ -16,7 +16,7 @@ def q1():
 def q2():
   num1 = input("Input a number: ")
   num2 = input("Input a number: ")
-  print(int(num1 / num2))
+  print(round(num1 / num2))
 
 # Output the phrase "Hello Mr. Kalisz have you seen my work yet?"
 

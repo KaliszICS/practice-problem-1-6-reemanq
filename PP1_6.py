@@ -31,7 +31,7 @@ def q4():
   num2 = input("Input a number: ")
   print(int(num1) * int(num2))
 
-q1()
-q2()
-q3()
-q4()
+# q1()
+# q2()
+# q3()
+# q4()

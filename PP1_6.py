@@ -14,9 +14,9 @@ def q1():
 # From input recieve two integers.  Output the quotient rounded down.
 
 def q2():
-  num1 = int(input("Input a number: "))
-  num2 = int(input("Input a number: "))
-  print(num1 / num2)
+  num1 = input("Input a number: ")
+  num2 = input("Input a number: ")
+  print(int(num1 / num2))
 
 # Output the phrase "Hello Mr. Kalisz have you seen my work yet?"
 
